@@ -12,9 +12,9 @@ This analysis focuses on understanding customer behavior using transaction data 
 The analysis is based on the following datasets:
 
 - **Order Data**: Contains customer food order transactions from October to December 2024.
-- **Existing Customer Details**: Includes customer segments/status as of October 1, 2024, based on their previous food ordering behavior.
 
-📁 **[Dataset](https://github.com/rashi12121/Customer-Segmentation-and-Retention-Analysis-Swiggy/blob/main/Swiggy-Data.csv)**
+📁 **[Dataset-Order Data](https://github.com/rashi12121/Customer-Segmentation-and-Retention-Analysis-Swiggy/blob/main/Swiggy-Data.csv)**
+
 
 All analysis was performed using **Google Sheets**.
 
@@ -34,8 +34,18 @@ All analysis was performed using **Google Sheets**.
 
 - Cleaned and structured transaction and customer status data.
 - Calculated RFM scores for each customer based on January 1, 2025.
-- Created RFM segments to classify customers (e.g., Champions, Loyal, At Risk).
+- The RFM analysis will assess three key aspects of customer behavior:
+- Recency: Evaluates how recently a customer has placed an order. This helps determine whether newer customers are more engaged compared to long-term users.
+- Frequency: Measures the number of orders placed by a customer within the given period, helping identify highly engaged customers versus those who order less often.
+- Monetary: Examines the amount spent by different customer segments, providing insights into whether high-spending customers are more likely to remain loyal.
 - Compared previous statuses (October 2024) with updated ones (January 2025) to detect churn, upgrades, downgrades, and stability.
+- - Churned Customers: Users who have stopped placing orders, indicating disengagement.
+- Upgraded Status: Customers who have improved their engagement level, such as moving from a "loyal" status to a "champion" category.
+- Downgraded Status: Users whose ordering patterns have declined, transitioning from a "champion" status to "loyal."
+- Stable Status: Customers who have maintained consistent engagement without significant changes.
+
+
+
 
 ---
 
@@ -45,7 +55,10 @@ All analysis was performed using **Google Sheets**.
 - Conditional formatting to highlight customer movement across statuses.
 - Summary counts of churned, upgraded, downgraded, and stable customers.
 
-![Customer Churned Analysis Dashboard](https://github.com/rashi12121/Customer-Segmentation-and-Retention-Analysis-Swiggy/blob/main/Swiggy-Customer%20Churn%20Analysis%20Dashboard.pdf)
+
+🖼️ **Customer Churned Analysis Dashboard:**  
+![Cancellation Dashboard](https://github.com/rashi12121/Customer-Segmentation-and-Retention-Analysis-Swiggy/blob/main/Swiggy-Customer%20Churn%20Analysis%20Dashboard.pdf)
+
 
 ## 💡 Key Insights
 
