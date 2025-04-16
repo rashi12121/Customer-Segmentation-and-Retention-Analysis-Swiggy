@@ -57,7 +57,7 @@ All analysis was performed using **Google Sheets**.
 
 
 🖼️ **Customer Churned Analysis Dashboard:**  
-![Cancellation Dashboard](https://github.com/rashi12121/Customer-Segmentation-and-Retention-Analysis-Swiggy/blob/main/Swiggy-Customer%20Churn%20Analysis%20Dashboard.pdf)
+![Churned Dashboard](https://github.com/rashi12121/Customer-Segmentation-and-Retention-Analysis-Swiggy/blob/main/Swiggy%20RFM%20Analysis%20Dashboard.png)
 
 
 ## 💡 Key Insights
