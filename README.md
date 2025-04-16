@@ -1,4 +1,4 @@
-# 🍽️ Swiggy RFM Analysis – Understanding Customer Engagement for Heritage Table
+# 🍽️ Customer Segmentation and Retension Analysis : Swiggy
 
 ## 📌 Project Overview  
 Swiggy, a leading food delivery platform, noticed a decline in repeat orders and customer engagement, raising concerns about potential customer churn. To address this issue and improve customer retention, a detailed RFM (Recency, Frequency, Monetary) analysis was conducted.
@@ -23,7 +23,7 @@ All analysis was performed using **Google Sheets**.
 ## ❓ Questions to Answer
 
 1. What are the recency, frequency, and monetary patterns of Swiggy customers?
-2. Which customers have churned or stopped engaging with Heritage Table?
+2. Which customers have churned or stopped engaging with Swiggy?
 3. How many customers have upgraded, downgraded, or maintained their segment status?
 4. What trends exist in high-paying vs low-paying customer behavior?
 5. Which segments are most engaged, and which need reactivation strategies?
